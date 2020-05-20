@@ -1,7 +1,6 @@
 description = "Spring Context"
 
 apply plugin: "groovy"
-
 dependencies {
 	compile(project(":spring-aop"))
 	compile(project(":spring-beans"))
